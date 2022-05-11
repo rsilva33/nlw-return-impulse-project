@@ -28,4 +28,4 @@ hs_err_pid*
 # Env
 .env.local
 
-node_modules
+**/node_modules
